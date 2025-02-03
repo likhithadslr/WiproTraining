@@ -1,0 +1,7 @@
+C:\Users\likhi\source\repos\WiproTraining\bin\Debug\WiproTraining.exe.config
+C:\Users\likhi\source\repos\WiproTraining\bin\Debug\WiproTraining.exe
+C:\Users\likhi\source\repos\WiproTraining\bin\Debug\WiproTraining.pdb
+C:\Users\likhi\source\repos\WiproTraining\obj\Debug\WiproTraining.csproj.AssemblyReference.cache
+C:\Users\likhi\source\repos\WiproTraining\obj\Debug\WiproTraining.csproj.CoreCompileInputs.cache
+C:\Users\likhi\source\repos\WiproTraining\obj\Debug\WiproTraining.exe
+C:\Users\likhi\source\repos\WiproTraining\obj\Debug\WiproTraining.pdb
